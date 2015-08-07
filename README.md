@@ -1,3 +1,7 @@
+Copied from https://github.com/juleswhite/mobilecloud-14/tree/master/examples/9-VideoServiceWithOauth2
+
+Changes made: use mysql as storage
+
 ## Warning
 
 UNDER NO CIRCUMSTANCES SHOULD YOU USE THE INCLUDED KEYSTORE IN A PRODUCTION APP!!!
